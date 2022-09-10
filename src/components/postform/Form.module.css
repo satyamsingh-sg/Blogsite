@@ -1,0 +1,17 @@
+.form {
+    height: 90vh;
+    background-color: white;
+    border-radius: 1em;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    overflow-y: scroll;
+}
+.floatingbutton {
+    border-radius: 50%;
+    height: 3em;
+    position: absolute;
+    right: 50vw;
+    bottom: 2vh;
+    background-color: #5cdb95;
+    color: #05386b;
+}

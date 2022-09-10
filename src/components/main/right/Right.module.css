@@ -1,0 +1,31 @@
+.header {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.header a {
+    margin: 1em;
+}
+
+.loginbtn {
+    color: white;
+    font-weight: bolder;
+    font-size: 1em;
+}
+
+.signupbtn,
+.signupbtn:focus {
+    background-color: #5cdb95;
+    color: #05386b;
+    font-weight: bolder;
+}
+
+.signupbtn:hover {
+    background-color: #43a16d;
+    color: #03274b;
+}
+
+.image {
+    margin-top: 16em;
+    width: 100%;
+}

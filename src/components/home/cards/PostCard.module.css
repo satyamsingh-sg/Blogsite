@@ -1,0 +1,41 @@
+.shadow {
+    height: 201px;
+}
+.bottom {
+    display: flex;
+    justify-content: space-around;
+}
+.bottom p {
+    cursor: default;
+    font-size: 0.9em;
+}
+
+.bottom a {
+    font-size: 0.9em;
+}
+
+.bottom a:hover {
+    background-color: rgba(0, 0, 0, 0.19);
+}
+.like {
+    position: absolute;
+    bottom: 0px;
+    display: flex;
+}
+.like li {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: smaller;
+}
+.like li img {
+    margin-right: 5px;
+}
+.like li p,
+.like li a {
+    text-decoration: none;
+    color: black;
+}
+.btn {
+    border-width: 0px;
+    background-color: transparent;
+}

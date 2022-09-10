@@ -1,0 +1,27 @@
+.cardcontainer {
+    border-left: 1px solid #b1b1b1;
+    border-right: 1px solid #b1b1b1;
+    border-bottom: 1px solid #b1b1b1;
+    background-color: #edf5e1;
+    height: 535px;
+    overflow-y: scroll;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
+.postscreate {
+    padding-left: 36em;
+    padding-top: 1em;
+}
+
+.cards {
+    padding-left: 2em;
+    padding-top: 1.5em;
+    overflow-y: scroll;
+    width: 350px;
+}
+
+.quescreate {
+    padding-left: 37em;
+    padding-top: 1em;
+}

@@ -1,0 +1,59 @@
+.trendcard {
+    width: 18rem;
+}
+
+.recommendCard {
+    width: 200px;
+}
+
+.trendcard,
+.recommendCard {
+    margin: 1em 0;
+    border: none;
+}
+
+.trendcard img,
+.recommendCard img {
+    height: 10em;
+    opacity: 0.4;
+}
+
+.trendcard p,
+.recommendCard p {
+    color: white;
+}
+
+.title {
+    color: white;
+    font-weight: 900;
+}
+
+.profileCard {
+    width: 200px;
+    margin: 1em 0;
+
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.2),
+        0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.profileCard img {
+    height: 120px;
+    width: 120px;
+    border-radius: 200px;
+    margin-left: 20%;
+    margin-top: 20px;
+}
+.profileCard p {
+    margin-left: 58px;
+}
+.profileCard a {
+    background-color: #05386b;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    padding: 6px;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-left: 45px;
+    border-radius: 20px;
+}

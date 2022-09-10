@@ -1,0 +1,38 @@
+.appbar {
+    padding: 0.5em;
+    background-color: #333333;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+}
+
+.menuicon {
+    color: white;
+    padding: 0;
+}
+
+.menuicon:hover {
+    color: rgb(85, 85, 85);
+    padding: 0;
+}
+
+.menuicon svg {
+    font-size: 1.7em;
+}
+
+.logo {
+    padding: 0;
+    width: 6.5em;
+    margin: 0 1em;
+}
+
+.logo img {
+    width: 100%;
+    border-radius: 0.4em;
+}
+
+.seperator {
+    flex-grow: 1;
+}

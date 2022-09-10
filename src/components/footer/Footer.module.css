@@ -1,0 +1,81 @@
+.upstream {
+    display: flex;
+    justify-content: space-between;
+    background-color: #379683;
+    padding: 0;
+}
+
+.upstream h2 {
+    background-color: #05386b;
+    color: white;
+    padding: 0.5em;
+    margin: 0;
+}
+
+.upbutton {
+    height: 2em;
+    margin: auto 0;
+    display: block;
+    transition: ease-in;
+    transition-duration: 0.3s;
+}
+
+.upbutton:hover {
+    background-color: #4bb37a;
+    border-radius: 20%;
+    transition: ease-in;
+    transition-duration: 0.3s;
+}
+
+.content {
+    background-color: #333333;
+    padding: 2em;
+}
+
+.line1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.support {
+    width: 8em;
+    background-color: #5cdb95;
+    color: #05386b;
+    font-weight: 800;
+    font-size: 1.1em;
+}
+
+.links {
+    display: flex;
+}
+
+.links a {
+    margin: 0.5em;
+    text-decoration: none;
+    color: white;
+    font-size: 1.1em;
+    font-weight: 600;
+}
+
+.line2 {
+    margin-top: 1.5em;
+    display: flex;
+    justify-content: space-between;
+}
+
+.copyrights h5 {
+    color: white;
+    margin: 0.5em;
+    font-weight: 100;
+    font-size: 1em;
+}
+
+.socialIcons {
+    display: flex;
+}
+
+.socialIcons svg {
+    font-size: 1.8em;
+    color: white;
+    margin: 0.2em;
+}

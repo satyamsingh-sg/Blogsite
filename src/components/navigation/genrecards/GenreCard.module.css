@@ -1,0 +1,14 @@
+.gcard {
+    width: 10em;
+    border: none;
+    margin-top: 1em;
+}
+
+.gcard img {
+    opacity: 0.4;
+}
+
+.genre h5 {
+    color: white;
+    font-weight: bolder;
+}

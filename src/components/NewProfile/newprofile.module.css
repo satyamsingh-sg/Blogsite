@@ -1,0 +1,144 @@
+.col-7 {
+    height: 100vh;
+    margin-right: 5em;
+}
+
+.mytab {
+    border-color: #b1b1b1;
+}
+
+.profilecard {
+    height: 50%;
+    width: 26%;
+}
+
+.maincontainer {
+    padding-top: 2.5em;
+    padding-left: 1em;
+    padding-right: 0.3em;
+    overflow: hidden;
+    width: 400px;
+    padding-bottom: 1em;
+    margin-top: 4em;
+}
+
+.containerMd {
+    height: 580px;
+    background-color: #05386b;
+    padding-top: 1em;
+    padding-bottom: 0.3em;
+    padding-right: 0.3em;
+    padding-left: 0.3em;
+    border-radius: 0.3em;
+    width: 360px;
+}
+
+.uname {
+    /* padding-right: 15.5em; */
+    color: black;
+    font-size: 20px;
+}
+
+.penicon {
+    margin-top: 0.4em;
+    border: none;
+}
+
+.bi bi-fill:hover {
+    color: #05386b;
+}
+
+.followercount {
+    font-size: 24px;
+    color: black;
+    margin-left: 1.2em;
+}
+
+.followingcount {
+    font-size: 24px;
+    color: black;
+    margin-left: 1.5em;
+}
+
+.mainfollowers,
+.mainfollowing {
+    color: grey;
+    cursor: pointer;
+}
+
+.editbutton {
+    width: 10px;
+}
+
+.genres,
+.email,
+.bio {
+    margin-left: 1em;
+    margin-top: 0.5em;
+    color: black;
+    font-size: medium;
+}
+
+.hr {
+    margin-left: 1.5em;
+    width: 290px;
+}
+
+.followbtn {
+    /* margin-top: 4em; */
+    margin-left: 0.3em;
+    width: 290px;
+    border-radius: 0.3em;
+    background-color: #8ee4af;
+    height: 40px;
+    cursor: pointer;
+}
+
+.analyticsContainer {
+    margin-right: 10em;
+    height: 300px;
+    margin-top: 1em;
+    background-color: antiquewhite;
+}
+
+.customfollowbtn {
+    margin-left: 0.5em;
+    width: 300px;
+    height: 40px;
+    border-radius: 0.3em;
+    background-color: #8ee4af;
+    border: none;
+}
+
+.customfollowbtn:hover {
+    background-color: #379683;
+}
+
+.middleContainer {
+    padding-top: 2em;
+    margin-top: 4em;
+}
+
+.containerMain {
+    padding-bottom: 1em;
+}
+
+.postbtndiv {
+    margin-left: 32em;
+    margin-top: 1em;
+    width: 100px;
+}
+
+.navtabs :hover {
+    background-color: #8ee4af;
+    color: #05386b;
+}
+
+.tabstyle {
+    border-color: red;
+}
+
+.quesbtndiv {
+    margin-left: 34em;
+    margin-top: 1em;
+}

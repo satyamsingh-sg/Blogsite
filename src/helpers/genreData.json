@@ -1,0 +1,32 @@
+[
+    {
+        "link": "https://lh3.googleusercontent.com/proxy/Nw6CKYi_dXHadUkIQljpWbgKKQveiZYz1siVcNdNVwFdecLeQc_6lbo0JcwXht3sLY17nIx6QuaY0nZIg1Du18GxkYX6TmMp6inNRIg7dLQeg3Cuie--Nsc",
+        "title": "Technology",
+        "name": "tech"
+    },
+    {
+        "link": "https://davistechgadgets.com/wp-content/uploads/2021/09/technology-1.jpg",
+        "title": "Gadgets",
+        "name": "gadgets"
+    },
+    {
+        "link": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
+        "title": "Coding",
+        "name": "coding"
+    },
+    {
+        "link": "https://images4.alphacoders.com/114/1140397.jpg",
+        "title": "Traveling",
+        "name": "traveling"
+    },
+    {
+        "link": "https://gearmoose.com/wp-content/uploads/2017/04/best-movies-for-men.jpg",
+        "title": "Movies",
+        "name": "movies"
+    },
+    {
+        "link": "https://signal.avg.com/hubfs/Blog_Content/Avg/Signal/AVG%20Signal%20Images/9%20Ways%20to%20Boost%20Your%20Gaming%20Rig/How_to_Improve_Your_Gaming_PC_Performance-Hero.jpg",
+        "title": "Gaming",
+        "name": "gaming"
+    }
+]

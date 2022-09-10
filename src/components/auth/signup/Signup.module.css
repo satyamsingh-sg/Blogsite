@@ -1,0 +1,62 @@
+.signup {
+    background-color: white;
+    width: 65%;
+    /* height: 60vh; */
+    padding-bottom: 1em;
+    border-radius: 1em;
+}
+
+.invalid input {
+    border-color: red;
+    background: #fbdada;
+}
+
+.invalid input:focus {
+    border-color: red;
+    background: #fbdada;
+}
+
+.valid input {
+    border-color: rgb(0, 209, 10);
+    background: #75f88b;
+}
+
+.valid input:focus {
+    border-color: rgb(0, 209, 10);
+    background: #75f88b;
+}
+
+.signinimg {
+    width: 80%;
+    margin: auto;
+}
+
+.signup h1 {
+    text-align: center;
+    padding: 0.3em 0.5em 0.5em 0.5em;
+}
+
+.signup {
+    box-shadow: 0 0 40px rgba(51, 51, 51, 0.1);
+}
+
+.signup input {
+    border: 2px solid #d6d4d4;
+}
+
+.signup input:focus {
+    box-shadow: none;
+    border: 2px solid #1e7bd8;
+}
+
+.signup button,
+.signup button:focus {
+    color: #05386b;
+    font-weight: 700;
+    background: #5cdb95;
+    border-color: #5cdb95;
+}
+
+.signup button:hover {
+    background-color: #379683;
+}

@@ -1,0 +1,39 @@
+.left {
+    background-color: #5cdb95;
+    height: 102vh;
+}
+
+.right {
+    background-color: #05386b;
+    height: 102vh;
+}
+
+.section1 {
+    background-color: #edf5e1;
+    padding: 4em;
+}
+
+.section2 {
+    background-color: #05386b;
+    padding: 4em;
+    color: white;
+}
+
+.section3 {
+    background-color: #5cdb95;
+    padding: 4em;
+}
+
+.content {
+    margin-top: 1em;
+}
+
+.content h1 {
+    font-size: 2.7em;
+    font-weight: bolder;
+}
+
+.content p {
+    margin-top: 1em;
+    font-size: 1.8em;
+}

@@ -1,0 +1,38 @@
+.votenum {
+    margin-top: 0.5em;
+    padding-top: 0.5em;
+    padding-left: 0.5em;
+}
+
+.votes {
+    margin-left: 0.5em;
+}
+
+.answernum {
+    margin-top: 0.5em;
+    padding-top: 0.5em;
+    padding-left: 0.7em;
+    /* margin-left: 0.5em; */
+
+    width: 77px;
+    height: 67px;
+    background-color: green;
+}
+
+.questitle {
+    padding-top: 0.7em;
+    font-size: 20px;
+}
+
+.quesfooter {
+    padding-top: 1em;
+}
+
+.postedname {
+    margin-left: 4.7em;
+}
+
+.quesinfo {
+    height: 80px;
+    padding-top: 0.3em;
+}

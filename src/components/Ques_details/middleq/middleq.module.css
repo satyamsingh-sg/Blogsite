@@ -1,0 +1,37 @@
+.middleheader {
+    padding-top: 2em;
+    height: 100px;
+}
+
+.subhead {
+    height: 15px;
+    width: 135px;
+    /* left: 646px;
+    top: 172px; */
+    border-radius: nullpx;
+    color: #797979;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-top: 0.5em;
+}
+
+.button1 {
+    height: 26px;
+    width: 93px;
+    /* left: 967px;
+    top: 166px; */
+    border-radius: 5px;
+    background: #05386b;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+    padding-bottom: 0em;
+}

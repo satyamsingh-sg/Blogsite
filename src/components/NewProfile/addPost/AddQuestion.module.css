@@ -1,0 +1,19 @@
+.formInput {
+    margin: 1em;
+}
+.buttonStyle {
+    align-items: flex-end;
+}
+.title {
+    margin: 16px;
+}
+.container {
+    padding-bottom: 2em;
+    margin-left: -2em;
+    overflow: scroll;
+    height: 500px;
+}
+.dropdown {
+    padding-right: 1em;
+    padding-bottom: 0.5em;
+}

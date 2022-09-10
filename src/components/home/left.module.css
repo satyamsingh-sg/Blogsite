@@ -1,0 +1,40 @@
+.list {
+    margin-top: 30px;
+    list-style-type: none;
+    float: right;
+    direction: rtl;
+    margin-right: -40px;
+}
+.list li {
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.list li a {
+    text-decoration: none;
+    color: #333333;
+    display: block;
+    padding: 4px 10px 4px 0px;
+}
+
+.list li a:hover {
+    background-color: #edf5e1;
+    border-radius: 6px;
+    padding: 4px 10px 4px 0px;
+}
+
+.active {
+    background-color: #05386b;
+    border-radius: 6px;
+}
+
+.list .active {
+    padding: 4px 10px 4px 10px;
+    border-radius: 6px;
+    color: white;
+}
+
+.list .active:hover {
+    background-color: #05386b;
+    padding: 4px 10px 4px 10px;
+    border-radius: 6px;
+}
